@@ -1,7 +1,7 @@
 // recursion 
 // event
 // start function 
-let recur = function (x, n) 
+let recur = function (x, n) {
     if (n>0) {
       x =x*10; //event
   	n--;
